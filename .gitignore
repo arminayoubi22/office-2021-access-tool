@@ -1,0 +1,8 @@
+env/
+__pycache__/
+.coverage
+venv/
+.mypy_cache/
+htmlcov/
+.pytest_cache/
+dist/
